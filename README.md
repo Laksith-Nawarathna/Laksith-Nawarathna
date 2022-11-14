@@ -41,11 +41,11 @@
 
 
 <div align="center">
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eranga-bandara&show_icons=true&locale=en&layout=compact" alt="eranga-bandara" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eranga-bandara&show_icons=true&locale=en&layout=compact" alt="eranga-bandara" /></p>
 </div>
 <br>
 <div align="center">
-<p align="left">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=eranga-bandara&show_icons=true&locale=en" alt="eranga-bandara" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eranga-bandara&show_icons=true&locale=en" alt="eranga-bandara" /></p>
 </div>
 <br>
 <div align="center">

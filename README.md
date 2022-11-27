@@ -1,4 +1,5 @@
 <!-- ![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg) -->
+<meta name="google-site-verification" content="6fq0cQ-43jvIN78rAKA6AtPDbi7pVEVdftIUbg_NGBc" />
 <img align="center" height="200" width=100% object-fit="cover" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg">
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=4000&pause=1000&color=007B01&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Eranga+Bandara;Software+Engineering+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+;%F0%9F%92%BB+Full+Stack+Developer" alt="Typing SVG" /></a>

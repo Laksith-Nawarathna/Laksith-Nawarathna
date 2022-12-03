@@ -52,8 +52,3 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laksith-nawarathna&" alt="laksith-nawarathna" /></p>
 </div>
-
-<h3 align="left">💪 My Contributions:</h3>
-<br>
-
-<a href="https://github.com/Laksith-Nawarathna/github-readme-activity-graph"><img alt="Laksith Nawarathna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Laksith-Nawarathna&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>

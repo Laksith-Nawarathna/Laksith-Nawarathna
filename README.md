@@ -2,21 +2,21 @@
 <meta name="google-site-verification" content="6fq0cQ-43jvIN78rAKA6AtPDbi7pVEVdftIUbg_NGBc" />
 <img align="center" height="200" width=100% object-fit="cover" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg">
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=4000&pause=1000&color=007B01&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Eranga+Bandara;Software+Engineering+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+;%F0%9F%92%BB+Full+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=4000&pause=1000&color=007B01&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Laksith+Nawarathna;Software+Engineering+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+;%F0%9F%92%BB+Full+Stack+Developer" alt="Typing SVG" /></a>
 </div>
 
-<!-- <h1 align="center">Hi 👋, I'm Eranga Bandara</h1> -->
+<!-- <h1 align="center">Hi 👋, I'm Laksith Nawarathna</h1> -->
 <h3 align="center"><b><i>A passionate full-stack developer from Sri Lanka</b></i></h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eranga-bandara&label=Profile%20views&color=0e75b6&style=flat" alt="eranga-bandara" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=laksith-nawarathna&label=Profile%20views&color=0e75b6&style=flat" alt="laksith-nawarathna" /> </p>
 
-📫 How to reach me: **erangab@yahoo.com**
+📫 How to reach me: **laksithnb@gmail.com**
 
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eranga-bandara-75667b15a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eranga-bandara-75667b15a" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/laksith-nawarathna-75667b15a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laksith-nawarathna-75667b15a" height="30" width="40" /></a>
 <a href="https://twitter.com/Eranga_Laksitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Eranga_Laksitha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20107151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20107151" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/eranga_bandara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="eranga_bandara" height="30" width="40" /></a>
@@ -42,18 +42,18 @@
 
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eranga-bandara&show_icons=true&locale=en&layout=compact" alt="eranga-bandara" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=laksith-nawarathna&show_icons=true&locale=en&layout=compact" alt="laksith-nawarathna" /></p>
 </div>
 <br>
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eranga-bandara&show_icons=true&locale=en" alt="eranga-bandara" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laksith-nawarathna&show_icons=true&locale=en" alt="laksith-nawarathna" /></p>
 </div>
 <br>
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eranga-bandara&" alt="eranga-bandara" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laksith-nawarathna&" alt="laksith-nawarathna" /></p>
 </div>
 
 <h3 align="left">💪 My Contributions:</h3>
 <br>
 
-<a href="https://github.com/AshanSandeep06/github-readme-activity-graph"><img alt="Eranga Bandara's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Eranga-Bandara&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Laksith-Nawarathna/github-readme-activity-graph"><img alt="Laksith Nawarathna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Laksith-Nawarathna&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>

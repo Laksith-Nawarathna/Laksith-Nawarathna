@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=4000&pause=1000&color=007B01&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Laksith+Nawarathna;Software+Engineering+Student+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93+;%F0%9F%92%BB+Full+Stack+Developer" alt="Typing SVG" /></a>
 </div>
 
-<!-- <h1 align="center">Hi 👋, I'm Laksith Nawarathna</h1> -->
+<!-- <h1 align="center">Hi, I'm Laksith Nawarathna</h1> -->
 <h3 align="center"><b><i>A passionate full-stack developer from Sri Lanka</b></i></h3>
 
 <!-- <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"> -->
@@ -25,13 +25,13 @@
 <br>
 
 
-<h3 align="left">👨‍🦰 About me :</h3>
+<h3 align="left"> About me :</h3>
 
-- 🎓 I'm an `engineering graduate` from University of Moratuwa.
-- 🔥 I Studied at D.S.Senanayake College.
-- 👨‍🎓 I'm currently `Studying` at IJSE-Institute of Software Engineering.
-- 💻 I’m currently learning `Computer Science` and `Software Engineering`.
-- ❤️ Always love to `learn new things`.
+-  I'm an `engineering graduate` from University of Moratuwa.
+-  I Studied at D.S.Senanayake College.
+-  I'm currently `Studying` at IJSE-Institute of Software Engineering.
+-  I’m currently learning `Computer Science` and `Software Engineering`.
+-  Always love to `learn new things`.
 
 <br>
 

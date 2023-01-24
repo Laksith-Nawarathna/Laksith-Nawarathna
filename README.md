@@ -14,7 +14,9 @@
 
 📫 How to reach me: **laksithnb@gmail.com**
 
-<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Connect with me:</h3>
+<h3 align="left">
+<!--   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> -->
+  Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/laksith-nawarathna-75667b15a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laksith-nawarathna-75667b15a" height="30" width="40" /></a>
 <a href="https://twitter.com/Laksith_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Eranga_Laksitha" height="30" width="40" /></a>
